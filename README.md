@@ -1,4 +1,4 @@
-# Project: Cursed Blood (Working In Progress!)
+# Project: The Forbidden Blood (Working In Progress!)
 
 A dark narrative adventure visual novel built with the **Ren'Py** engine. Step into a world of political intrigue, forbidden secrets, and a race against time to rescue someone whose very existence is a threat to the ruling elite.
 
