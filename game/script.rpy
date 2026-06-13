@@ -24,7 +24,7 @@ label start:
 
     "Because of this, she lives under a false name, blending into the crowd to keep her existence a secret."
 
-    # 2. Introducing the Rival Family's Motive (Political Erasure)
+    
     "What Avalice doesn't know is that the ruling Family is already hunting her down."
 
     "For generations, this elite bloodline has ruled the city, claiming their power comes from a pure, divine blessing." 
@@ -33,12 +33,11 @@ label start:
 
     "Avalice's cursed blood is the living proof of their dark history—a secret that, if revealed, would destroy the ruling family's reputation and strip them of their power overnight."
 
-    # 3. The Threat & The Ticking Clock
+    
     "To protect their perfect image, they cannot let her live free." 
 
     "They don't just want her captured; they need her erased from history entirely."
-
-    # 4. Smooth Transition to the Main Character
+    
     scene bg mc_room
     with fade
 
