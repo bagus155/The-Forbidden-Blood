@@ -4,8 +4,9 @@
 # name of the character.
 
 label start:
-    show bg city
-
+    scene bg city
+    play music "audio/blind.mp3"
+    
     "Somewhere in a sprawling city where humans and other species live side-by-side, there is a girl named Avalice."
 
     "To the world, she is just an ordinary citizen. But in reality, she is an anomaly." 
@@ -15,6 +16,7 @@ label start:
     "Because of this, she lives under a false name, blending into the crowd to keep her existence a secret."
     
     "What Avalice doesn't know is that the ruling Family is already hunting her down."
+    
 
     "For generations, this elite bloodline has ruled the city, claiming their power comes from a pure, divine blessing." 
 
